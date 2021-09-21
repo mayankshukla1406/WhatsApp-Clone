@@ -87,7 +87,7 @@ class Login : Fragment() {
 
     private fun createRequest() {
         googleSignInOptions = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-            .requestIdToken("373164116519-rrnk7u79kpgv70rsspcuavj4jcveukbm.apps.googleusercontent.com")
+            .requestIdToken("Your Firebase Web Client ID")
             .requestEmail()
             .build()
         mGoogleSignInClient = context.let { GoogleSignIn.getClient(it!!, googleSignInOptions) }
