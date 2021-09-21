@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/drawable/friends.xml" value="0.35052083333333334" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/drawable/ic_email.xml" value="0.3546875" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/drawable/message_background.xml" value="0.3546875" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/drawable/message_bg.xml" value="0.3546875" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/drawable/reciever_bg.xml" value="0.3546875" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/drawable/sender_bg.xml" value="0.3546875" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/drawable/view_bg.xml" value="0.29259259259259257" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/activity_authentication.xml" value="0.22" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/activity_main.xml" value="0.31666666666666665" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/activity_menu.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/activity_splash.xml" value="0.3125" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/chat_view.xml" value="0.16195761856710394" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_about.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_calls.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_chats.xml" value="0.3145833333333333" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_contacts.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_login.xml" value="0.3125" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_message.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_messaging.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_profile.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_sign_up.xml" value="0.22" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/fragment_status.xml" value="0.3145833333333333" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/message_recycler_view.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/recycler_reciever.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/recycler_view_chats.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/recycler_view_reciever.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/recycler_view_sender.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/recyclerview_contacts.xml" value="0.33" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/recyler_view_sender.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/layout/reycler_sender.xml" value="0.334375" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/menu-v26/search.xml" value="0.3302083333333333" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/menu/menu.xml" value="0.32788559754851887" />
+        <entry key="..\:/Android/WhatsappClone/app/src/main/res/menu/search.xml" value="0.3302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/whatsapp_clone/SearchModal.kt" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
